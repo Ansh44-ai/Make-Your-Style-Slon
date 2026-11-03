@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 1. Home / Main Sanctuary Experience -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://makeyourstylesalon.netlify.app/images/hero-salon.jpg</image:loc>
+      <image:title>Make Your Style Salon Haute Coiffure Sanctuary</image:title>
+      <image:caption>Luxury hair salon and styling atelier in New Delhi</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 2. Services Menu & Hair Treatments -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/services</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Appointment Booking & WhatsApp Concierge -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/booking</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. Hair Transformations Portfolio & Gallery -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/gallery</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 5. About Us & Atelier Philosophy -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/about</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. The Salon Standard (Why Choose Us) -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/why-us</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 7. Verified Guest Reviews & Testimonials -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/reviews</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 8. Salon Location & Contact Coordinates -->
+  <url>
+    <loc>https://makeyourstylesalon.netlify.app/contact</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
