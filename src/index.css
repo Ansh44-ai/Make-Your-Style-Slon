@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-gold-300: #E6CE78;
+  --color-gold-400: #D4AF37;
+  --color-gold-500: #C5A059;
+  --color-gold-600: #A68235;
+  --color-ivory: #FAF8F5;
+  --color-sand: #F0EAE1;
+  --color-sand-muted: #8F8677;
+  --color-obsidian: #0D0C0B;
+  --color-surface-dark: #141311;
+  --color-surface-card: #181715;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    background-color: #0d0c0b;
+    color: #f7f4ee;
+  }
+
+  body {
+    background-color: #0d0c0b;
+    color: #f7f4ee;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, .font-editorial {
+    font-family: var(--font-serif);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Subtle luxury scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0c0b;
+}
+::-webkit-scrollbar-thumb {
+  background: #2b2823;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c5a059;
+}
+
+/* Refined transitions */
+.transition-luxury {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}

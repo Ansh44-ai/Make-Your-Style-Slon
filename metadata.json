@@ -1,0 +1,8 @@
+{
+  "name": "Make Your Style Salon - Luxury Salon",
+  "description": "Experience professional hair styling, expert care, and a transformation designed just for you at Satved Hair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
